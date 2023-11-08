@@ -1,0 +1,7 @@
+pylibcrypt
+psutil
+requests
+webbrowser
+tasksio
+aiohttp
+cryptography
